@@ -1,0 +1,3 @@
+---
+  name: docker_pm2_demo
+  script: src/index.js
